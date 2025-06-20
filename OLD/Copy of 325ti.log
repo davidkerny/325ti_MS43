@@ -1,0 +1,6 @@
+Edit Log for Copy of 325ti64kb created by TunerPro.
+**************************************************************************
+01/24/2018 20:27:36  Table:     Engine speed limiter, hard limiter, manual gearbox changed.
+01/24/2018 20:27:38  Table:     Engine speed limiter, soft limiter, manual gearbox changed.
+01/24/2018 20:30:24  Scalar:    Coolant temp to switch warm-up state changed from 50.3 °C (0x83) to 60.0 °C (0x90).
+01/24/2018 21:54:58  Table:     Throttle angle based on driver wish changed.

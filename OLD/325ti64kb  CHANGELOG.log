@@ -1,0 +1,21 @@
+Edit Log for 325ti64kb  v1_3.bin created by TunerPro.
+**************************************************************************
+04/08/2018 18:41:19  Table:     id_n_max_vs_max_mt__gear changed.
+04/08/2018 19:14:11  Scalar:    Min. vehicle speed for full-load detection changed from 120 km/h (0x78) to 80 km/h (0x50).
+04/08/2018 19:14:54  Scalar:    c_t_max_ip_aj changed from 850 ms (0x55) to 340 ms (0x22).
+04/08/2018 19:15:35  Table:     id_t_dly_iga_aj_mt__gear changed.
+04/08/2018 19:15:37  Table:     id_t_max_aj_mt__gear changed.
+04/08/2018 19:15:40  Table:     id_t_iga_inc_aj_mt__gear changed.
+04/08/2018 19:15:56  Scalar:    Min. vehicle speed for full-load detection changed from 80 km/h (0x50) to 69 km/h (0x45).
+
+full load detection od 70km misto 120 km
+antijerk vsechny delay casy vynulovany
+full load enrichment od 4000rpm zvysen o 0.01
+
+04/18/2018 00:21:23  Scalar:    Configuration ExhaustGasTemperature changed from 1 - (0x01) to 0 - (0x00).
+04/18/2018 00:21:29  Scalar:    Configuration ExhaustFlap changed from 1 - (0x01) to 0 - (0x00).
+04/18/2018 00:36:51  Scalar:    TPS adaptation changed from 1 - (0x01) to 0 - (0x00).
+
+
+v1.5
+ostrejsi mapa ip_isapwm_pvs__pvs__n  mapa throttle angle on drivers wish na zacatku, kdy plyn ovlada ISA, nuly

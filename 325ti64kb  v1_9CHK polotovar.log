@@ -1,0 +1,15 @@
+Edit Log for 325ti64kb  v1_9CHK polotovar.bin created by TunerPro.
+**************************************************************************
+11/20/2018 21:33:20  Table:     ip_n_sp_is__tco changed. zjednoduseny podminky pro full load detection
+04/07/2019 21:56:29  Scalar:    c_t_dly_aj changed from 400 ms (0x28) to 100 ms (0x0A).
+04/07/2019 21:59:41  Scalar:    c_tco_min_aj changed from 0.0 °C (0x40) to 120.8 °C (0xE1).
+04/07/2019 22:05:11  Table:     Max. time in full-load condition, manual gearbox changed. trosku prodlouzeno
+04/07/2019 22:05:45  Scalar:    Max. engine speed for full-load detection changed from 3616 rpm (0x71) to 4992 rpm (0x9C).
+04/07/2019 22:06:45  Scalar:    Min. vehicle speed for full-load detection changed from 69 km/h (0x45) to 10 km/h (0x0A).
+04/07/2019 22:11:07  Table:     Full Load enrichment changed. trosku nakrmeno (plus 0.200)
+04/07/2019 22:17:38  Table:     Ignition retard, fast negative throttle closed (4x6) Coolant temp -vs- Engine speed changed.
+04/07/2019 22:24:03  Scalar:    lc_swi_cal_mon_cks changed from 1 - (0x01) to 165 - (0xA5).
+04/07/2019 22:29:53  Table:     Torque reduction (8x9) Airflow -vs- Engine speed changed.  velmi omezeno torque reduction
+04/07/2019 22:31:19  Table:     Ignition retard, fast negative throttle closed (4x6) Coolant temp -vs- Engine speed changed.
+04/07/2019 22:40:25  Table:     Engine speed hysteresis overrun cut-off changed. bez kvaltu minimalni hystereze, mely by lepe padat otacky
+04/07/2019 22:45:58  Table:     Throttle angle based on driver wish changed. trochu polazena mapa klapky, aby se otvirala driv, soucasne s ICV

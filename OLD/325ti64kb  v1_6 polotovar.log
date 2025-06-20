@@ -1,0 +1,6 @@
+Edit Log for 325ti64kb  v1_6 polotovar.bin created by TunerPro.
+**************************************************************************
+08/31/2018 00:05:09  Scalar:    c_t_max_ip_aj changed from 340 ms (0x22) to 100 ms (0x0A).
+08/31/2018 00:05:36  Scalar:    c_t_dly_aj changed from 1250 ms (0x7D) to 400 ms (0x28).
+08/31/2018 00:05:54  Scalar:    c_tco_min_aj changed from 142.5 °C (0xFE) to 0.0 °C (0x40).
+08/31/2018 00:07:36  Table:     id_t_dly_iga_aj_mt__gear changed.  zkousim uhladit antijerk

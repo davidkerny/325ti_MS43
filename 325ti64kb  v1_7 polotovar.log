@@ -1,0 +1,22 @@
+Edit Log for 325ti64kb  v1_7 polotovar.bin created by TunerPro.
+**************************************************************************
+08/31/2018 00:09:57  Table:     id_t_dly_iga_aj_mt__gear changed.
+08/31/2018 00:10:33  Table:     id_t_max_aj_mt__gear changed. tady byly hodnoty 10, nejaky delay?
+08/31/2018 00:13:08  Scalar:    c_pvs_grd_min_aj_amt changed from 35 訊PS/s (0x03) to 47 訊PS/s (0x04).
+08/31/2018 00:13:54  Scalar:    c_pvs_grd_min_aj changed from 35 訊PS/s (0x03) to 47 訊PS/s (0x04).  to nevim, co je
+08/31/2018 00:33:20  Table:     Exhaust cam setpoint, warm engine, full-load changed. top end je -95, overlap
+08/31/2018 00:33:22  Table:     Intake cam setpoint, warm engine, full-load changed. top end je 115
+08/31/2018 00:41:26  Scalar:    Max. engine speed for full-load detection changed from 3488 rpm (0x6D) to 5984 rpm (0xBB).
+08/31/2018 00:41:56  Scalar:    Max. engine speed for full-load detection changed from 5984 rpm (0xBB) to 8160 rpm (0xFF).
+08/31/2018 00:48:29  Table:     Exhaust cam setpoint, warm engine, part-load changed. limit -95
+ TOHLE JE HLAVNI UPRAVA, JDE TAM DAT AZ -80 STUPNU VYFUKOVA VACKA PRO VYKON OD 4500 OTACEK
+08/31/2018 00:50:17  Table:     Intake cam setpoint, warm engine, part-load changed. limit 115
+08/31/2018 00:51:01  Scalar:    Max. engine speed for full-load detection changed from 8160 rpm (0xFF) to 3616 rpm (0x71).
+08/31/2018 01:15:48  Table:     Ignition advance setpoint for CAT heating, idlespeed (4x1) Engine speed changed.
+10/07/2018 15:16:57  Table:     ip_t_pvs_cor_rpl_5__npvscor changed.
+10/07/2018 15:17:10  Table:     ip_t_pvs_cor_rpl_4__npvscor changed.
+10/07/2018 15:17:22  Table:     ip_t_pvs_cor_rpl_3__npvscor changed.
+10/07/2018 15:17:38  Table:     ip_t_pvs_cor_rpl_2__npvscor changed.
+10/07/2018 15:17:49  Table:     ip_t_pvs_cor_rpl_1__npvscor changed.
+10/07/2018 15:17:51  Table:     ip_t_pvs_cor_rpl_0__npvscor changed.tohle omezuje reakci na plyn
+

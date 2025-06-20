@@ -1,0 +1,10 @@
+Edit Log for 325ti64kb  v1_9 polotovar.bin created by TunerPro.
+**************************************************************************
+11/07/2018 17:18:12  Table:     Engine speed limiter, hard limiter, manual gearbox changed.
+11/07/2018 17:20:36  Table:     id_n_max_vs_max_mt__gear changed.
+11/07/2018 17:25:36  Table:     ip_n_sp_is__tco changed.
+11/07/2018 17:29:08  Table:     ip_n_sp_is__tco changed.
+11/07/2018 17:39:02  Table:     ip_n_sp_is__tco changed.
+
+srovnana hystereze n limiteru
+zvysen volnobeh pri minusovych teplotach chladici kapaliny

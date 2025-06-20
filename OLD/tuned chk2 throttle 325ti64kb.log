@@ -1,0 +1,4 @@
+Edit Log for tuned chk2 throttle 325ti64kb.bin created by TunerPro.
+**************************************************************************
+03/13/2018 19:36:10  Scalar:    c_tco_min_aj changed from 30.0 °C (0x68) to 142.5 °C (0xFE).    antijerk
+03/13/2018 19:38:03  Table:     Throttle angle based on driver wish changed.

@@ -1,0 +1,10 @@
+Edit Log for 325ti64kb  v2_0 E85 .bin created by TunerPro.
+**************************************************************************
+06/02/2019 09:12:02  Scalar:    T_ti_as_2 changed from 1.000 - (0x80) to 1.016 - (0x82).
+06/02/2019 09:12:03  Scalar:    T_ti_as_3 changed from 1.000 - (0x80) to 1.016 - (0x82).
+06/02/2019 09:12:05  Scalar:    T_ti_as_4 changed from 1.000 - (0x80) to 1.016 - (0x82).
+06/02/2019 09:12:06  Scalar:    T_ti_as_0 changed from 1.000 - (0x80) to 1.016 - (0x82).
+06/02/2019 09:12:07  Scalar:    T_ti_as_1 changed from 1.000 - (0x80) to 1.016 - (0x82).
+06/02/2019 09:12:09  Scalar:    T_ti_as_5 changed from 1.000 - (0x80) to 1.016 - (0x82).
+06/02/2019 09:12:38  Table:     AfterStart enrichment changed.
+06/02/2019 09:16:53  Table:     ip_n_sp_is__tco changed.
