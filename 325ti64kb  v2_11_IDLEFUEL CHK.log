@@ -1,0 +1,4 @@
+Edit Log for 325ti64kb  v2_11_IDLEFUEL CHK.bin created by TunerPro.
+**************************************************************************
+06/20/2025 13:32:55  Scalar:    c_t_puc_deacc_vs changed from 0.0010 s (0x0006) to 0.1444 s (0x034E).
+06/22/2025 11:56:31  Scalar:    c_ti_ad_fac_max changed from 12.00 % (0x9EB8) to 18.00 % (0xAE14).
